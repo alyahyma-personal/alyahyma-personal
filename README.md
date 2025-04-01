@@ -1,5 +1,11 @@
 ## Hi there, my name is Mansour Alyahyay 👋
 
+Im a neuroscientist postdoc with over 8 years experience in data analysis and visualization. I work on analyzing different modualities of neural data and its correlate with animal behavior. 
+
+I also analyze data for FUN! Currently I am runninig personal projects with completely different aspects. 1) I am analyzing NBA games and stats to predict best strategies for different teams in specific mathupus. 2) Im combining books that I have read with goodread database to find books that i could be interested in yet different from what I typically read, 3) find spatiotemporal patterns in different classical music repositories and investigate what sets different composers apart. 
+
+Feel free to reach me at mansour.etc@gmail.com for any matter, particularly if you're into discussing ideas and like to have arguments ;) 
+
 <!--
 **alyahyma-personal/alyahyma-personal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
