@@ -1,22 +1,27 @@
-## Hi there, I'm Mansour Alyahyay 👋
+Hi 👋 My name is Mansour Alyahyay
+=================================
 
-Im a neuroscience postdoc with over 8 years experience in data analysis and visualization. I work on analyzing different modualities of neural data and its correlate with animal behavior. 
+Neuroscientist (PhD), Geophysicist (BSc).
+-----------------------------------------
 
-I also analyze data for FUN! Currently I am runninig personal projects with completely different aspects. 1) I am analyzing NBA games and stats to predict best strategies for different teams in specific mathupus. 2) Im combining books that I have read with goodread database to find books that i could be interested in yet different from what I typically read, 3) find spatiotemporal patterns in different classical music repositories and investigate what sets different composers apart. 
+After three years in the oil industry, I pursued a PhD in neuroscience—diving deep into data analysis and visualization for over 8 years. I specialize in analyzing multimodal neural data and its relationship to animal behavior. But coding became more than just work—it became a hobby. Now I explore personal data projects that combine my interests: 🏀 NBA Analytics – Predicting game outcomes and uncovering matchup-specific strategies 📚 Book Discovery – Matching my reading history with Goodreads to find surprising recommendations 🎼 Classical Music Patterns – Analyzing spatiotemporal structures to understand what makes composers unique
 
-Feel free to reach me at mansour.etc@gmail.com for any matter, particularly if you're into discussing ideas and like to have arguments ;) 
-
-<!--
-**alyahyma-personal/alyahyma-personal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Saudi Arabia
+*   ✉️  You can contact me at [Mansour.etc@gmail.com](mailto:Mansour.etc@gmail.com)
+*   🧠  I'm learning SQL and computer vision
+*   🤝  I'm open to collaborating on fun, creative ideas—get in touch if you’ve got one!### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="http://www.medium.com/@mansour.etc/about" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
